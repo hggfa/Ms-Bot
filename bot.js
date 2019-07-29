@@ -26,7 +26,7 @@ const sql = require("sqlite");
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`-help|MonsTis`,"https://www.twitch.tv/Music-bot")
+client.user.setGame(`Gameriss Server`,"https://www.twitch.tv/Music-bot")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
